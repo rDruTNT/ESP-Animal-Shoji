@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 364bb6deeb8874e4e998efa926cb5929
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - chicken: {fileID: 21300000, guid: 93753ec2de154854a90dc456694d7205, type: 3}
+  - falcon: {fileID: 21300000, guid: c9f7231f679b63c49adb17b887a5afd0, type: 3}
+  - giraffe: {fileID: 21300000, guid: a571e57ec1bd9bc46bc67e895b4e5391, type: 3}
+  - elephant: {fileID: 21300000, guid: 0099435d09a790e43836c4e980bef064, type: 3}
+  - lion: {fileID: 21300000, guid: 628e5c894c472d441abd793c5575d58c, type: 3}
+  - texture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
